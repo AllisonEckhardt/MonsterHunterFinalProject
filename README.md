@@ -4,4 +4,4 @@
 ![Example of the running program](https://user-images.githubusercontent.com/81187521/119431064-23cfb880-bccf-11eb-9874-a2682d0cd876.png)
 
 
-### [Source Code]https://github.com/AllisonEckhardt/MonsterHunterFinalProject/blob/main/src/README.md
+### [Source Code:] https://github.com/AllisonEckhardt/MonsterHunterFinalProject/blob/main/src/README.md
